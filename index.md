@@ -7,4 +7,5 @@
 [LeetCode.673 最长递增子序列的个数](tech/leetcode/673/673.html)
 
 **`使用二维数组保存状态:`**<br>
-[LeetCode.718 最长重复子数组](tech/leetcode/718/718.html)
+[LeetCode.718 最长重复子数组](tech/leetcode/718/718.html)<br>
+[LeetCode.5 最长回文子串](tech/leetcode/5/5.html)
